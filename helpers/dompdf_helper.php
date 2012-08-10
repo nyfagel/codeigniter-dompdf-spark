@@ -12,7 +12,7 @@
  * @author		Jan Lindblom <jan@powcorp.se>
  * @copyright	Copyright (c) 2012, POW! Corp.
  * @license		The dompdf helper is MIT licensed, dompdf is lGPL.
- * @version		0.5.2
+ * @version		0.5.3
  */
 
 if ( ! function_exists('pdf_create')) {

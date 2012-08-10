@@ -7,3 +7,4 @@
  * @version		0.5.2
  */
 $autoload['helper'] = array('dompdf');
+?>
